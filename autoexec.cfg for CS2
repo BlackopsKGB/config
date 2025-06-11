@@ -95,6 +95,7 @@ cl_radar_always_centered "0"          // keep off-center
 cl_radar_icon_scale_min "0.6"
 cl_radar_scale "0.4"
 cl_teamcounter_playercount_instead_of_avatars "1"
+hud_scaling "1.0"
 cl_showloadout "1"                    // always show load-out
 cl_weapon_selection_rarity_color "1"  // rarity colours
 safezone  "0.896869"                  // HUD safe-zone X
